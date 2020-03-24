@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>shina webpage</title>
+    
+
+</head>
+
+<body>
+    <script type ="text/javascript">
+    var name ="<h1>Ogunyomi Adeshina Godwin, Nickname:Godson</h1>";
+document.write(name + "<br>");
+var array = ["<h1>html", "css", "javascript</h1>"];
+document.write(array);
+
+    for (var a = 1; a <= 200; a++){
+        if(a % 2 == 1){
+            document.write(a + "<br>");
+        }
+    }
+
+    </script>
+
+</body>
+
+
+</html>
